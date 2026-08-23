@@ -14,3 +14,6 @@ url: https://nicekeyboards.com/docs/nice-nano/pinout-schematic
 # See https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
 features:
   - keys
+
+requires:
+  - pro_micro
