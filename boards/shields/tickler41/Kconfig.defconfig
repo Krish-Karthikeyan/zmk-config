@@ -1,0 +1,6 @@
+if SHIELD_TICKLER41
+
+config ZMK_KEYBOARD_NAME
+    default "ticklerfour1"
+
+endif # SHIELD_TICKLER41
